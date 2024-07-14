@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Siddartha Kodaboina</h1>
 <h3 align="center">Software Engineer with a passion for Backend Engineering, Machine Learning, and Cloud</h3>
 
-- 🌱 I’m currently working on **Cooperative Perception for Self-driving Cars through V2V and V2X networks"
+- 🌱 I’m currently working on **Cooperative Perception for Self-driving Cars through V2V and V2X networks**
   
 - 💬 Ask me about **Data Structure & Algorithms, System Design and Machine Learning**
 
