@@ -91,7 +91,6 @@
   </tr>
 </table>
 
-<img src="https://github.com/Siddartha-Kodaboina/Siddartha-Kodaboina/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
-![GitHub Snake Light](https://github.com/Siddartha-Kodaboina/Siddartha-Kodaboina/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://github.com/Siddartha-Kodaboina/Siddartha-Kodaboina/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+<img src="https://raw.githubusercontent.com/Siddartha-Kodaboina/Siddartha-Kodaboina/output/snake.svg" alt="Snake animation" />
+
