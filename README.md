@@ -26,6 +26,7 @@
       <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
       <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
       <img src="https://img.shields.io/badge/Dart-0175C2.svg?style=flat-square&logo=dart&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
       <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white"/>
       <img src="https://img.shields.io/badge/Haskell-%235D4F7A.svg?style=flat-square&logo=haskell&logoColor=white"/>
     </td>
