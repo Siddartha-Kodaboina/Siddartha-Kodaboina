@@ -25,10 +25,8 @@
       <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white"/>
       <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
       <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
-      <img src="https://img.shields.io/badge/Dart-0175C2.svg?style=flat-square&logo=dart&logoColor=white"/>
       <img src="https://img.shields.io/badge/PHP-777BB4?styleflat-square&logo=php&logoColor=white"/>
       <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Haskell-%235D4F7A.svg?style=flat-square&logo=haskell&logoColor=white"/>
     </td>
   </tr>
   <tr>
@@ -36,11 +34,8 @@
     <td>
       <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"/>
       <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white"/>
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Gatsby-%23663399.svg?style=flat-square&logo=gatsby&logoColor=white"/>
       <img src="https://img.shields.io/badge/Vue.js-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D"/>
-      <img src="https://img.shields.io/badge/Nuxt.js-00C58E.svg?style=flat-square&logo=nuxtdotjs&logoColor=white"/>
       <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"/>
     </td>
   </tr>
@@ -71,7 +66,6 @@
       <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white"/>
       <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase"/>
       <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat-square&logo=postgresql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Milvus-34A167?style=flat-square&logo=milvus&logoColor=white"/>
       <img src="https://img.shields.io/badge/Redis-%23DC382D.svg?style=flat-square&logo=redis&logoColor=white"/>
     </td>
   </tr>
@@ -107,7 +101,6 @@
       <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white"/>
       <img src="https://img.shields.io/badge/Seaborn-4C4C4C?style=flat-square&logo=seaborn&logoColor=white"/>
       <img src="https://img.shields.io/badge/Scikit%20Learn-F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white"/>
-      <img src="https://img.shields.io/badge/D3.js-F9A03C.svg?style=flat-square&logo=d3dotjs&logoColor=white"/>
       <img src="https://img.shields.io/badge/Matplotlib-013220?style=flat-square&logo=matplotlib&logoColor=white"/>
      </td>
   </tr>
