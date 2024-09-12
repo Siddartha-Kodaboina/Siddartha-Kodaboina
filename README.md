@@ -1,7 +1,7 @@
 <h1 align="left">Hi there 👋, I'm Siddartha Kodaboina</h1>
 <h3 align="left">Software Engineer with a passion for Backend Engineering, Machine Learning, and Cloud</h3>
 
-- 🌱 I’m currently working on **Cooperative Perception for Self-driving Cars through V2V and V2X networks**
+- 🌱 I’m currently working on **SJSU TeleHealth: an AI-driven healthcare assistant** 
   
 - 💬 Ask me about **Data Structure & Algorithms, System Design and Machine Learning**
 
@@ -35,7 +35,6 @@
       <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"/>
       <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white"/>
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Vue.js-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D"/>
       <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"/>
     </td>
   </tr>
