@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **k.siddartha49@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1z-SWlNCQbLtOHLg-v_CwgX9cPw0E3o1fvgnEPj1Va20/edit?usp=sharing](https://docs.google.com/document/d/1z-SWlNCQbLtOHLg-v_CwgX9cPw0E3o1fvgnEPj1Va20/edit?usp=sharing)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1TbnKSdX2ZfezsfRcZT-_dagXRmUAUJZmLyaGo96mMq0/edit](https://docs.google.com/document/d/1TbnKSdX2ZfezsfRcZT-_dagXRmUAUJZmLyaGo96mMq0/edit)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
