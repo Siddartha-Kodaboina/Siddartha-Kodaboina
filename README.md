@@ -1,5 +1,5 @@
 <h1 align="left">Hi there 👋, I'm Siddartha Kodaboina</h1>
-<h3 align="left">Software Engineer with a passion for Backend Engineering, Machine Learning, and Cloud</h3>
+<h3 align="left">Software Engineer with a passion for Web, Backend Engineering, Machine Learning, and Cloud</h3>
 
 - 🌱 I’m currently working on **SJSU TeleHealth: an AI-driven healthcare assistant** 
   
