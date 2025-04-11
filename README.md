@@ -7,8 +7,6 @@
 [![leetcode_badge]](https://leetcode.com/u/saksid/)
 [![linkedin_badge]](https://www.linkedin.com/in/siddartha-kodaboina/)
 
-<img src="https://raw.githubusercontent.com/Siddartha-Kodaboina/Siddartha-Kodaboina/output/snake.svg" alt="Snake animation" />
-
 <!-- Badges -->
 [portfolio_badge]: https://img.shields.io/badge/Portfolio%20Website-%230077B5.svg?style=flat-square&logo=buffer&logoColor=white
 [linkedin_badge]: https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white
