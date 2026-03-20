@@ -1,5 +1,5 @@
 <h1 align="left">Hi there 👋, I'm Siddartha Kodaboina</h1>
-<h3 align="left">Software Engineer with a passion for Web, Backend Engineering, Machine Learning, and Cloud</h3>
+<h3 align="left">Software Engineer with a passion for SaaS Infrastructure Engineering (Generalist with great experience in Gen AI, Web, Backend, Machine Learning, and Cloud)</h3>
 
 ## 👀 Check out my...
 
